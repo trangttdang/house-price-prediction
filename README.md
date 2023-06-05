@@ -1,5 +1,8 @@
 # Interpretable Gradient Boosting - Real Estate House Price Prediction
 
+Milestone-3:
+- [Deployed model with Hugging Face](https://huggingface.co/spaces/ttd22/house-price-prediction-LightGBM)
+
 Milestone-2:
 - Perform the SHAP interpretation of the house price prediction with a simple [LightGBM] model. 
 - Produce graphs that show the SHAP values for the features and the SHAP interaction values for these features.
