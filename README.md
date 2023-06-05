@@ -14,7 +14,7 @@ Milestone-3:
 - [Deployed model with Hugging Face](https://huggingface.co/spaces/ttd22/house-price-prediction-LightGBM)
 
 Milestone-2:
-- Perform the SHAP interpretation of the house price prediction with a simple [LightGBM] model. 
+- Perform the [SHAP](https://shap.readthedocs.io/en/latest/index.html) (SHapley Additive exPlanations) interpretation of the house price prediction with [a simple LightGBM model](https://github.com/trangttdang/house-price-prediction/blob/main/SHAP_Interpretation.ipynb). 
 - Produce graphs that show the SHAP values for the features and the SHAP interaction values for these features.
 
 Milestone-1:
