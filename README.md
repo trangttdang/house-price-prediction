@@ -7,7 +7,7 @@
 
 Milestone-4:
 - [Created landing page](https://sites.google.com/njit.edu/home-price-explorer)
-- [Recorded Demo video](https://drive.google.com/file/d/187QQNeyekIAlWGsUdD7sduD2qQAo-GYE/view?usp=sharing)
+- [Recorded Demo video including code explanation](https://drive.google.com/file/d/187QQNeyekIAlWGsUdD7sduD2qQAo-GYE/view?usp=sharing)
 
 Milestone-3:
 - [Tuned LightGBM Model Hyperparameters with Optuna (Jupyter Notebook)](https://github.com/trangttdang/house-price-prediction/blob/main/LightGBM_Optuna_Explanation.ipynb)
